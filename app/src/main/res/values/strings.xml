@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FromZero-Andre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="menu_fragment">Menu Fragment</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="notifications">Notifications</string>
+    <string name="create_project">Create Project</string>
+    <string name="support">Support</string>
+    <string name="logout">Logout</string>
+    <string name="createProject_fragment">CreateProject Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="support_fragment">Support Fragment</string>
+    <string name="logout_fragment">Logout Fragment</string>
+</resources>
